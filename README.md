@@ -1,11 +1,12 @@
 # Is the Price Right? Home price modeling using Supervised Learning and Regression Models
-## Final project for AP statistics by Vishak Srikanth
-## May 2020
+### Final project submitted for AP statistics at Stanford Online High School
+### by Vishak Srikanth
+### May 2020
 
 For many people, buying a home is one of life’s major milestones. Not only is it a significant financial commitment, but it is also a symbol of their self-worth. 
 For some, buying a home is purely an investment opportunity from which they plan to earn profits or use as a means to build wealth. 
-The attributes of a home (i.e. location, layout, size) can shape a person’s lifestyle and influence how happy they are in their homes. 
-For some of the proud homeowners, the housing booms have been a boon but for othes saving up enough money to make a down payment and choosing the right property 
+The features or desirable charactersitics of a home (i.e. location, layout, size) can shape a person’s lifestyle and influence how happy they are in their homes. 
+For some of the proud homeowners, the housing booms have been a boon but for others saving up enough money to make a down payment and choosing the right property 
 that matches their needs can be a difficult task. In either case, what people want to know is: Is a particular home worth it? Naturally, home prices vary depending 
 on the size, layout, amenities, among other property characteristics and fluctuate over time. With so many attributes, it can be difficult to get a clear idea of 
 what a fair price range for a home is. Inspired by discussions in the class and what we learned while studying statistics, I want to explore the question of 
@@ -26,8 +27,7 @@ For those of us living in the San Francisco Bay Area, home prices have climbed u
 while the broader national stock and housing market indices have climbed only 100% in the same period our home price indices have skyrocketed over 150%!
 But with the recent COVID pandemic, the surge in pricing has cooled off a bit. As a future extension, I want to build a similar model using Python 
 to get data from various listing services such as MLS and Zillow. For those that owned homes already this has been a boon but for new residents, it is very 
-difficult to save up enough money to make a down payment and even find the right property that matches their needs can be a difficult task. 
-I want to extend the ideas from this dataset and build models using Python for supervised learning and OLS regression. 
+difficult to save up enough money to make a down payment and even find the right property that matches their needs. I want to extend the ideas from the Ames dataset and build models using Python for various supervised learning models and OLS regression. 
 
 ## References
 De Cock, D. (2011). “Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project”, Journal of Statistics Education, 
