@@ -1,5 +1,5 @@
 # Is the Price Right? Home price modeling using Supervised Learning and Regression Models
-### Final project submitted for AP statistics at Stanford Online High School
+### Final project submitted for AP Statistics 
 ### by Vishak Srikanth
 ### May 2020
 
