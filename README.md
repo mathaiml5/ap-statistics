@@ -1,7 +1,4 @@
 # Is the Price Right? Home price modeling using Supervised Learning and Regression Models
-### Final project submitted for AP Statistics 
-### by Vishak Srikanth
-### May 2020
 
 For many people, buying a home is one of life’s major milestones. Not only is it a significant financial commitment, but it is also a symbol of their self-worth. 
 For some, buying a home is purely an investment opportunity from which they plan to earn profits or use as a means to build wealth. 
